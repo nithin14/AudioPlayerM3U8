@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioPlayerM3U8</string>
+    <string name="resource_type_m3u8">m3u8 Type Video</string>
+    <string name="resource_type_mp4">Mp4 Type Video</string>
+</resources>
